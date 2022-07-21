@@ -8,18 +8,6 @@
 - Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, June 2022;
 - One Year of Experience in Game Development (Unity);
 
-
-  
-## new title
-  <ul>
-    <li>1<li>
-    <li>1<li>
-    <li>1<li>
-    <li>1<li>
-    <li>1<li>
-    <ul>
-      
- ## tech I use
       
 ## :hammer_and_wrench: Languages and Tools :
 <div>
@@ -39,7 +27,7 @@
 
   &nbsp; 
     
-## :fire: My Stats :
+## :fire: Stats :
     
    &nbsp; 
   
@@ -51,6 +39,3 @@
 
  &nbsp;  
  
-## Contact me:
-<a href="https://www.linkedin.com/in/mosa-basaleh/"><img src="https://github.com/BARAA-201/BARAA-201/blob/main/logos/linkedin-seeklogo.com.svg" align="left" height="80" width="80" >
-
