@@ -2,7 +2,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mousa_basaleh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mosa-basaleh/)](https://www.linkedin.com/in/mosa-basaleh/) 
 [![Gmail Badge](https://img.shields.io/badge/-mousabasaleh@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mousabasaleh@gmail.com)](mailto:mousabasaleh@gmail.com)
 <br />
-<img align="right" width="450px" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Mousa Basaleh 💻
 - A Full-Stack Web Developer;
