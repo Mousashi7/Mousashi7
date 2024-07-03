@@ -5,7 +5,7 @@
 
 ### I am Mousa Basaleh 💻
 - A Full-Stack Web Developer;
-- Graduated from Youthink Academy Powered by Woz U, California, Istanbull Bootcamp, June 2022;
+- Graduated from Youthink Academy Powered by Woz U, Istanbull Bootcamp, June 2022;
 - One Year of Experience in Game Development (Unity);
 
       
